@@ -9,4 +9,4 @@ const ListsPodcastsSchema = mongoose.Schema({
     },
 })
 
-module.exports = mongoose.model('Podcasts', ListsPodcastsSchema)
+module.exports = mongoose.model('ListsPodcasts', ListsPodcastsSchema)
